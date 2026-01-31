@@ -18,8 +18,17 @@ especial interés en adquirir experiencia laboral en el extranjero.
 ## 🎓 Proyectos realizados en el Grado de Ingeniería Informática de la Universidad de Zaragoza
 
 Aquí se encuentra un resumen de mis proyectos universitarios, agrupados por asignatura. 
+**Este Profile README está en proceso de construcción. Se incorporarán más repositorios en breve.**
 
-### Ingeniería Web
+### Primer Curso
+
+### Segundo Curso
+
+### Tercer Curso
+
+### Cuarto Curso
+
+
 
 ## 📫 Contacto
 
