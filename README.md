@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy David Borrel
 
-<!--
-**dborrel/dborrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente soy estudiante de 4º de Ingeniería Informática en la Universidad de Zaragoza, especializado en Ingeniería del Software.
+Tengo previsto finalizar mis estudios en julio de 2026. Estoy buscando seguir creciendo profesionalmente mediante la aplicación 
+práctica de mis habilidades en proyectos reales, aportando soluciones eficientes y aprendiendo de entornos colaborativos, con 
+especial interés en adquirir experiencia laboral en el extranjero.
 
-Here are some ideas to get you started:
+## 🧩 Habilidades técnicas:
+- Programación en C, C++, Java, Python, Go, ARM, Shell
+- Manejo de bases de datos: MySQL, MariaDB, SQLite, PostgreSQL,
+- MongoDB, Oracle Database
+- Desarrollo web: HTML, CSS, JavaScript, PHP, Node.js, React, Spring
+- Boot, Kotlin, Astro
+- Configuración de redes de computadores
+- Control de versiones con Git
+- Inglés: Nivel B2 (Competencia profesional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Proyectos realizados en el Grado de Ingeniería Informática de la Universidad de Zaragoza
+
+Aquí se encuentra un resumen de mis proyectos universitarios, agrupados por asignatura. 
+
+### Ingeniería Web
+
+## 📫 Contacto
+
+- ✉️ Email: 871643@unizar.es
+- 💼 LinkedIn: [David Borrel Seral](www.linkedin.com/in/david-borrel-seral-444785304)
