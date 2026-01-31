@@ -65,7 +65,7 @@ servidor de juego.
 
 -**[lab6-microservices](https://github.com/dborrel/lab6-microservices)**
 
--**[URL Shortener](https://github.com/dborrel/urlshortener_IllumiURLs)
+-**[URL Shortener](https://github.com/dborrel/urlshortener_IllumiURLs)**
 Proyecto principal de la asignatura, en el que había que añadir diferentes funcionalidades a un acortador de URL, siguiendo principios
 y técnicas de la Ingeniería Web.
 
