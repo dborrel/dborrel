@@ -54,10 +54,15 @@ servidor de juego.
 > Lenguajes y tecnologías utilizadas: Kotlin / Spring Boot
 
 -**[lab1-git-race](https://github.com/dborrel/lab1-git-race)**
+
 -**[lab2-web-server](https://github.com/dborrel/lab2-web-server)**
+
 -**[lab3-web-api](https://github.com/dborrel/lab3-web-api)**
+
 -**[lab4-websockets](https://github.com/dborrel/lab4-websockets)**
+
 -**[lab5-soa](https://github.com/dborrel/lab5-soa)**
+
 -**[lab6-microservices](https://github.com/dborrel/lab6-microservices)**
 
 -**[URL Shortener](https://github.com/dborrel/urlshortener_IllumiURLs)
